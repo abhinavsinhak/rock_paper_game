@@ -1,2 +1,2 @@
 # rock_paper_game
-![Screenshot](http://url/to/img.png](https://github.com/abhinavsinhak/rock_paper_game/blob/main/image_2023-12-22_20-27-46.png)https://github.com/abhinavsinhak/rock_paper_game/blob/main/image_2023-12-22_20-27-46.png)
+![Screenshot](image_2023-12-22_20-27-46.png)
