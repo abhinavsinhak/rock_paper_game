@@ -1,2 +1,2 @@
 # rock_paper_game
-![Screenshot](Screenshot)
+![Screenshot](Screenshot.png)
